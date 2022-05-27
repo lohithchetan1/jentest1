@@ -11,12 +11,12 @@
       <![CDATA[hello C#]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-05-27T09:08:19 IST" name="Suite" finished-at="2022-05-27T09:08:19 IST" duration-ms="114">
+  <suite started-at="2022-05-27T17:31:43 IST" name="Suite" finished-at="2022-05-27T17:31:44 IST" duration-ms="85">
     <groups>
     </groups>
-    <test started-at="2022-05-27T09:08:19 IST" name="Test" finished-at="2022-05-27T09:08:19 IST" duration-ms="114">
+    <test started-at="2022-05-27T17:31:43 IST" name="Test" finished-at="2022-05-27T17:31:44 IST" duration-ms="85">
       <class name="jenkins.test2">
-        <test-method signature="testA()[pri:0, instance:jenkins.test2@6babf3bf]" started-at="2022-05-27T09:08:19 IST" name="testA" finished-at="2022-05-27T09:08:19 IST" duration-ms="1" status="PASS">
+        <test-method signature="testA()[pri:0, instance:jenkins.test2@6babf3bf]" started-at="2022-05-27T17:31:43 IST" name="testA" finished-at="2022-05-27T17:31:43 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello java]]>
@@ -25,7 +25,7 @@
         </test-method> <!-- testA -->
       </class> <!-- jenkins.test2 -->
       <class name="jenkins.test3">
-        <test-method signature="testB()[pri:0, instance:jenkins.test3@3059cbc]" started-at="2022-05-27T09:08:19 IST" name="testB" finished-at="2022-05-27T09:08:19 IST" duration-ms="0" status="PASS">
+        <test-method signature="testB()[pri:0, instance:jenkins.test3@3059cbc]" started-at="2022-05-27T17:31:43 IST" name="testB" finished-at="2022-05-27T17:31:43 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello C#]]>
@@ -34,7 +34,7 @@
         </test-method> <!-- testB -->
       </class> <!-- jenkins.test3 -->
       <class name="jenkins.test1">
-        <test-method signature="test()[pri:0, instance:jenkins.test1@10163d6]" started-at="2022-05-27T09:08:19 IST" name="test" finished-at="2022-05-27T09:08:19 IST" duration-ms="12" status="PASS">
+        <test-method signature="test()[pri:0, instance:jenkins.test1@10163d6]" started-at="2022-05-27T17:31:43 IST" name="test" finished-at="2022-05-27T17:31:43 IST" duration-ms="10" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello pyton]]>
